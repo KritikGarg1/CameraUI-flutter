@@ -3,6 +3,8 @@
 * Implemented Animated FAB widget.
 * Implemented Circular Slider for Zoom.
 
+![img](https://i.ibb.co/CJjck0n/Screenshot-20200322-040050-pixel-really-blue-portrait.png)
+
 
 ## Points to note
 
@@ -17,3 +19,5 @@
 * sleek_circular_slider
 * provider: ^2.0.1
 * camera: ^0.5.7+1
+
+![img](https://i.ibb.co/tx0ZzWs/xdfgfd.jpg)
