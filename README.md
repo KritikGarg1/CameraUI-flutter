@@ -1,16 +1,19 @@
-# camera_ui
+# Camera UI Concept
 
-A camera UI
+* Implemented Animated FAB widget.
+* Implemented Circular Slider for Zoom.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Points to note
 
-A few resources to get you started if this is your first Flutter project:
+* Making button of bottom-right corner improves one-hand thumb usage.
+* More preview area.
+* Long Tap for extending FAB.
+* Single Tap to click an image.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Packages used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* radial_button 1.0.0
+* sleek_circular_slider
+* provider: ^2.0.1
+* camera: ^0.5.7+1
